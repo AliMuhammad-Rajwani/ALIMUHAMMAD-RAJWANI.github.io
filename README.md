@@ -41,9 +41,9 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="max-width: 100%; height: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- Additional Badges -->
