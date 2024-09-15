@@ -23,7 +23,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 🚀 Skills & Technologies
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -50,55 +50,46 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 🌟 Featured Projects
 
-<table>
+<table style="width: 100%; max-width: 1200px; margin: auto;">
   <tr>
-    <td width="20%">
+    <td width="30%" style="text-align: center;">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
         <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" />
       </a>
     </td>
-    <td>
-      <div style="border-left: 3px solid #003B57; padding-left: 10px;">
-        <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
-        A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
-      </div>
-    </td>
-    <td>
+    <td style="padding-left: 10px;">
+      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
+      A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+      <br /><br />
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
     </td>
   </tr>
   <tr>
-    <td width="20%">
+    <td width="30%" style="text-align: center;">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
         <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" />
       </a>
     </td>
-    <td>
-      <div style="border-left: 3px solid #005A9E; padding-left: 10px;">
-        <strong>🛠️ Windows System Update</strong><br />
-        Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
-      </div>
-    </td>
-    <td>
+    <td style="padding-left: 10px;">
+      <strong>🛠️ Windows System Update</strong><br />
+      Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+      <br /><br />
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
       <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
     </td>
   </tr>
   <tr>
-    <td width="20%">
+    <td width="30%" style="text-align: center;">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
         <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" />
       </a>
     </td>
-    <td>
-      <div style="border-left: 3px solid #4B1F6A; padding-left: 10px;">
-        <strong>☕ Coffee Shop Management System</strong><br />
-        A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
-      </div>
-    </td>
-    <td>
+    <td style="padding-left: 10px;">
+      <strong>☕ Coffee Shop Management System</strong><br />
+      A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+      <br /><br />
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
@@ -119,7 +110,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 📫 Let's Connect
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -135,11 +126,9 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   <a href="https://education.github.com/experts">
     <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-Student-1F8BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer" />
   </a>
-
   <a href="https://github.com/AliMuhammad-Rajwani/Cv.git" download>
     <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
   </a>
-
 </div>
 
 ---
