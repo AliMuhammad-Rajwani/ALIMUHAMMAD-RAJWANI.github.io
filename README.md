@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=My%20CV%20-%20Alimuhammad%20Rajwani&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
-# Alimuhammad Rajwani - CV
-
 <!-- Introduction Section -->
 # Welcome to My GitHub Profile! 👋
 
