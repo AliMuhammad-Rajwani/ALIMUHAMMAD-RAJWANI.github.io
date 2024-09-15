@@ -60,10 +60,10 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 🚧 Current Projects
 
-- 🔭 I’m currently working on a **Full-Stack MERN Project**.  
-- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.  
+- 🔭 I’m currently working on a **Python**.  
+- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications From Microsoft.  
 - 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!  
-- 📫 How to reach me: **alimuhammad.email@example.com**
+- 📫 How to reach me: **alirajwani59@gmail.com**
 
 ---
 
