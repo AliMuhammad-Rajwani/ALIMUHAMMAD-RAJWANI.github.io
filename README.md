@@ -181,19 +181,13 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 
 
-
-
-
-
-
-
 ## 🌟 Featured Projects
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-blue?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CPU Scheduling Algorithm Calculator" />
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-004B87?style=flat-square&logo=c-sharp&logoColor=white" alt="CPU Scheduling Algorithm Calculator" />
       </a>
     </td>
     <td>
@@ -202,13 +196,13 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
-      C#
+      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows System Update" />
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows System Update" />
       </a>
     </td>
     <td>
@@ -217,13 +211,14 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
-      Bash script, PowerShell
+      <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-blue?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
       </a>
     </td>
     <td>
@@ -232,10 +227,18 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
-      C#, SQL Database
+      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
 
 
 ---
