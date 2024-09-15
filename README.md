@@ -120,6 +120,37 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌟 Featured Projects
+
+### 🚀 [CPU Scheduling Algorithm Calculator](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git)
+![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+
+---
+
+### 🛠️ [Windows System Update](https://github.com/AliMuhammad-Rajwani/Window-System-Update.git)
+![PowerShell](https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=for-the-badge&logo=powershell&logoColor=white)
+Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+
+---
+
+### ☕ [Coffee Shop Management System](https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git)
+![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+
+
 ---
 
 ## 🚧 Current Projects
