@@ -69,7 +69,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
-| [🚀 Personal Portfolio](https://github.com/ALIMUHAMMAD-RAJWANI/portfolio) | A sleek, responsive portfolio built with HTML, CSS, and JS. | HTML, CSS, JavaScript     |
+| [🚀 CPU SCHDULING ALGORITM CALCULATOR](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git) | A sleek, responsive portfolio built with HTML, CSS, and JS. | HTML, CSS, JavaScript     |
 | [🛠️ Task Manager App](https://github.com/ALIMUHAMMAD-RAJWANI/task-manager) | Task management web app to organize daily activities.       | Python, Flask, SQLite     |
 | [🔐 Network Security Tool](https://github.com/ALIMUHAMMAD-RAJWANI/net-sec-tool) | A cybersecurity tool for network vulnerability scanning. | Python, Networking        |
 
