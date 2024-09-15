@@ -49,59 +49,6 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 ---
 
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-blue?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=00599C&logoWidth=30" alt="CPU Scheduling Algorithm Calculator" />
-      </a>
-    </td>
-    <td>
-      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
-      A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
-    </td>
-    <td>
-      <strong>Tech Stack:</strong><br />
-      C#
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=00599C&logoWidth=30" alt="Windows System Update" />
-      </a>
-    </td>
-    <td>
-      <strong>🛠️ Windows System Update</strong><br />
-      Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
-    </td>
-    <td>
-      <strong>Tech Stack:</strong><br />
-      Bash script, PowerShell
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-blue?style=for-the-badge&logo=coffee&logoColor=white&labelColor=00599C&logoWidth=30" alt="Coffee Shop Management" />
-      </a>
-    </td>
-    <td>
-      <strong>☕ Coffee Shop Management System</strong><br />
-      A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
-    </td>
-    <td>
-      <strong>Tech Stack:</strong><br />
-      C#, SQL Database
-    </td>
-  </tr>
-</table>
-
-
-
-
 
 
 ## 🌟 Featured Projects
