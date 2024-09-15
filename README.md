@@ -53,7 +53,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1200px; margin: auto; padding: 20px;">
 
   <!-- Project 1 -->
-  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 1px solid #ddd; transition: transform 0.3s;">
+  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 2px solid #00599C; transition: transform 0.3s, box-shadow 0.3s;">
     <div style="background: #00599C; color: #ffffff; padding: 20px; text-align: center;">
       <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" style="max-width: 100%; height: auto;"/>
       <h3 style="margin-top: 10px; font-size: 1.4em; font-weight: bold;">🚀 CPU Scheduling Algorithm Calculator</h3>
@@ -68,7 +68,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   </div>
 
   <!-- Project 2 -->
-  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 1px solid #ddd; transition: transform 0.3s;">
+  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 2px dashed #0078D4; transition: transform 0.3s, box-shadow 0.3s;">
     <div style="background: #0078D4; color: #ffffff; padding: 20px; text-align: center;">
       <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" style="max-width: 100%; height: auto;"/>
       <h3 style="margin-top: 10px; font-size: 1.4em; font-weight: bold;">🛠️ Windows System Update</h3>
@@ -84,7 +84,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   </div>
 
   <!-- Project 3 -->
-  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 1px solid #ddd; transition: transform 0.3s;">
+  <div style="background: #ffffff; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); overflow: hidden; flex: 1 1 300px; border: 2px dotted #6D2C91; transition: transform 0.3s, box-shadow 0.3s;">
     <div style="background: #6D2C91; color: #ffffff; padding: 20px; text-align: center;">
       <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" style="max-width: 100%; height: auto;"/>
       <h3 style="margin-top: 10px; font-size: 1.4em; font-weight: bold;">☕ Coffee Shop Management System</h3>
