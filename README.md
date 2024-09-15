@@ -50,29 +50,29 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 🌟 Featured Projects
 
-<div style="display: flex; flex-direction: column; gap: 30px; max-width: 1200px; margin: auto; padding: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: auto; padding: 20px;">
 
   <!-- Project 1 -->
-  <div style="display: flex; align-items: center; border-radius: 15px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.2); background: linear-gradient(145deg, #ffffff, #f0f0f0); transition: transform 0.3s;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git" style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 20px; background: #003B57; color: #ffffff; text-decoration: none;">
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; transform: scale(1);">
+    <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git" style="display: block; text-align: center; padding: 20px; background: linear-gradient(145deg, #003B57, #00599C); color: #ffffff; text-decoration: none;">
       <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" style="max-width: 100%; height: auto;"/>
     </a>
-    <div style="flex: 2; padding: 20px;">
-      <h3 style="margin-top: 0; color: #333; font-size: 1.5em; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🚀 CPU Scheduling Algorithm Calculator</h3>
-      <p style="font-size: 1em; line-height: 1.6; color: #555;">A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.</p>
+    <div style="padding: 20px;">
+      <h3 style="margin-top: 0; color: #333; font-size: 1.25em; font-weight: bold;">🚀 CPU Scheduling Algorithm Calculator</h3>
+      <p style="font-size: 0.9em; color: #555;">A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.</p>
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
     </div>
   </div>
 
   <!-- Project 2 -->
-  <div style="display: flex; align-items: center; border-radius: 15px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.2); background: linear-gradient(145deg, #ffffff, #f0f0f0); transition: transform 0.3s;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git" style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 20px; background: #005A9E; color: #ffffff; text-decoration: none;">
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; transform: scale(1);">
+    <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git" style="display: block; text-align: center; padding: 20px; background: linear-gradient(145deg, #005A9E, #0078D4); color: #ffffff; text-decoration: none;">
       <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" style="max-width: 100%; height: auto;"/>
     </a>
-    <div style="flex: 2; padding: 20px;">
-      <h3 style="margin-top: 0; color: #333; font-size: 1.5em; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🛠️ Windows System Update</h3>
-      <p style="font-size: 1em; line-height: 1.6; color: #555;">Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.</p>
+    <div style="padding: 20px;">
+      <h3 style="margin-top: 0; color: #333; font-size: 1.25em; font-weight: bold;">🛠️ Windows System Update</h3>
+      <p style="font-size: 0.9em; color: #555;">Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.</p>
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
       <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
@@ -80,13 +80,13 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   </div>
 
   <!-- Project 3 -->
-  <div style="display: flex; align-items: center; border-radius: 15px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.2); background: linear-gradient(145deg, #ffffff, #f0f0f0); transition: transform 0.3s;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git" style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 20px; background: #4B1F6A; color: #ffffff; text-decoration: none;">
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; transform: scale(1);">
+    <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git" style="display: block; text-align: center; padding: 20px; background: linear-gradient(145deg, #4B1F6A, #6D2C91); color: #ffffff; text-decoration: none;">
       <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" style="max-width: 100%; height: auto;"/>
     </a>
-    <div style="flex: 2; padding: 20px;">
-      <h3 style="margin-top: 0; color: #333; font-size: 1.5em; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">☕ Coffee Shop Management System</h3>
-      <p style="font-size: 1em; line-height: 1.6; color: #555;">A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.</p>
+    <div style="padding: 20px;">
+      <h3 style="margin-top: 0; color: #333; font-size: 1.25em; font-weight: bold;">☕ Coffee Shop Management System</h3>
+      <p style="font-size: 0.9em; color: #555;">A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.</p>
       <strong>Tech Stack:</strong><br />
       <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
