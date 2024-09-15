@@ -96,40 +96,34 @@
 
 
 
-<!-- Banner -->
+
+
+
+
+
+
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20There!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<!-- Introduction Section -->
+# Welcome to My GitHub Profile! 👋
 
-<p align="center">
-  Hi, I'm Alimuhammad Rajwani, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
-  I'm deeply fascinated by the world of programming, cybersecurity, and web development.  
-  Always exploring new technologies and embracing challenges with a problem-solving mindset.
-</p>
+Hi, I'm **Alimuhammad Rajwani**, a passionate **BSIT Student** at Sir Syed University.  
+My interests range from **Web Development**, **Cybersecurity**, to **Programming** and **Networking**.  
+I enjoy turning complex problems into simple, beautiful solutions.  
+My motto is to **"Learn, Build, Share"** while continually pushing the boundaries of creativity and code.
 
-<p align="center">
-  <em>"Coding is not just a profession, it's an art where every line is a stroke of innovation."</em>
-</p>
+> *"Coding is not just a profession, it's an art where every line is a stroke of innovation."*
+
+When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶. Life is a journey of exploration, and I'm here to explore the depths of technology!
 
 ---
 
-<!-- About Me Section with Icons -->
-### 👨‍💻 About Me
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on mastering **Cybersecurity & Web Development**.
-- 🌱 I’m currently learning **React.js** and **Cloud Computing**.
-- 💬 Ask me about **Python**, **JavaScript**, **Data Structures** & **Algorithms**.
-- 📫 How to reach me: **alimuhammad.email@example.com**
-- ⚡ Fun fact: I love **stargazing** and **gaming** when I'm not coding.
-
----
-
-### 🚀 Skills & Technologies
-
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -143,10 +137,9 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" />
@@ -154,8 +147,7 @@
 
 ---
 
-<!-- Project Showcase Section -->
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
@@ -165,10 +157,18 @@
 
 ---
 
-<!-- Contact & Social Media Links -->
-### 📫 Connect with Me
+## 🚧 Current Projects
 
-<div align="center">
+- 🔭 I’m currently working on a **Full-Stack MERN Project**.  
+- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.  
+- 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!  
+- 📫 How to reach me: **alimuhammad.email@example.com**
+
+---
+
+## 📫 Let's Connect
+
+<div>
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -192,6 +192,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
 </p>
-
