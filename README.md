@@ -47,76 +47,55 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 </div>
 
 ---
+
 ## 🌟 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1200px; margin: auto; padding: 20px;">
-
-  <!-- Project 1 -->
-  <div style="
-    background: #ffffff;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    overflow: hidden;
-    flex: 1 1 300px;
-    border: 2px solid #0078D4;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-  "
-  onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
-    <div style="background: #0078D4; color: #ffffff; padding: 15px; text-align: center;">
-      <h3 style="margin: 0; font-size: 1.4em; font-weight: bold;">🛠️ Project 1</h3>
-    </div>
-    <div style="padding: 15px;">
-      <p style="font-size: 0.95em; color: #333; margin-bottom: 10px;">This is a description of Project 1. It covers key features and objectives.</p>
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="
-    background: #f9f9f9;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    overflow: hidden;
-    flex: 1 1 300px;
-    border: 3px dashed #6D2C91;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-  "
-  onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
-    <div style="background: #6D2C91; color: #ffffff; padding: 15px; text-align: center;">
-      <h3 style="margin: 0; font-size: 1.4em; font-weight: bold;">☕ Project 2</h3>
-    </div>
-    <div style="padding: 15px;">
-      <p style="font-size: 0.95em; color: #333; margin-bottom: 10px;">This is a description of Project 2. It highlights the primary features and uses.</p>
-    </div>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="
-    background: #ffffff;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    overflow: hidden;
-    flex: 1 1 300px;
-    border: 2px dotted #FF5722;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-  "
-  onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
-    <div style="background: #FF5722; color: #ffffff; padding: 15px; text-align: center;">
-      <h3 style="margin: 0; font-size: 1.4em; font-weight: bold;">🚀 Project 3</h3>
-    </div>
-    <div style="padding: 15px;">
-      <p style="font-size: 0.95em; color: #333; margin-bottom: 10px;">This is a description of Project 3. It describes the key aspects and goals.</p>
-    </div>
-  </div>
-
-</div>
-
-
+<table style="width: 100%; max-width: 1200px; margin: auto;">
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" />
+      </a>
+    </td>
+    <td style="padding-left: 10px;">
+      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
+      A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+      <br /><br />
+      <strong>Tech Stack:</strong><br />
+      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" />
+      </a>
+    </td>
+    <td style="padding-left: 10px;">
+      <strong>🛠️ Windows System Update</strong><br />
+      Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+      <br /><br />
+      <strong>Tech Stack:</strong><br />
+      <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" />
+      </a>
+    </td>
+    <td style="padding-left: 10px;">
+      <strong>☕ Coffee Shop Management System</strong><br />
+      A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+      <br /><br />
+      <strong>Tech Stack:</strong><br />
+      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
+    </td>
+  </tr>
+</table>
 
 ---
 
