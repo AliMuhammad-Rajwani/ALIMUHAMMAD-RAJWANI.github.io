@@ -102,50 +102,39 @@
 
 
 
-
-<!-- Header Banner with Animation -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
-<!-- Introduction Section with Lottie Animation -->
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<!-- Introduction Section -->
+# Welcome to My GitHub Profile! 👋
 
-<p align="center">
-  <img src="https://assets2.lottiefiles.com/packages/lf20_schkyh7i.json" width="400px" height="300px" alt="animated welcome" />
-</p>
+Hi, I'm **Alimuhammad Rajwani**, a passionate **BSIT Student** at Sir Syed University.  
+My interests range from **Web Development**, **Cybersecurity**, to **Programming** and **Networking**.  
+I enjoy turning complex problems into simple, beautiful solutions.  
+My motto is to **"Learn, Build, Share"** while continually pushing the boundaries of creativity and code.
 
-<p align="center">
-  Hi, I'm <strong>Alimuhammad Rajwani</strong>, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
-  My interests range from <strong>Web Development</strong>, <strong>Cybersecurity</strong>, to <strong>Programming</strong> and <strong>Networking</strong>.  
-  I enjoy turning complex problems into simple, beautiful solutions.  
-  My motto is to <strong>"Learn, Build, Share"</strong> while continually pushing the boundaries of creativity and code.
-</p>
-
-<p align="center">
-  <em>"Coding is not just a profession, it's an art where every line is a stroke of innovation."</em>
-</p>
+> *"Coding is not just a profession, it's an art where every line is a stroke of innovation."*
 
 ---
 
-<!-- About Me with Animation GIF -->
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- About Me Section with Responsive Image -->
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="about me animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" height="80%" alt="coding gif" />
 </p>
 
-<p align="center">
-  I'm always curious to learn new things and evolve as a better developer.  
-  When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶.  
-  Life is a journey of exploration, and I'm here to explore the depths of technology!
-</p>
+I'm always curious to learn new things and evolve as a better developer.  
+When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶.  
+Life is a journey of exploration, and I'm here to explore the depths of technology!
 
 ---
 
-### 🚀 Skills & Technologies
+## 🚀 Skills & Technologies
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -160,9 +149,9 @@
 ---
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" />
@@ -170,10 +159,9 @@
 
 ---
 
-<!-- Tools and Technologies with Animation -->
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -183,8 +171,8 @@
 
 ---
 
-<!-- Project Showcase Section with Animation -->
-### 🌟 Featured Projects
+<!-- Project Showcase Section -->
+## 🌟 Featured Projects
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
@@ -195,10 +183,10 @@
 ---
 
 <!-- Developer Life Animation GIF -->
-<h2 align="center">🚧 Current Projects</h2>
+## 🚧 Current Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="250" alt="coding gif" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80%" height="80%" alt="coding gif" />
 </p>
 
 - 🔭 I’m currently working on a **Full-Stack MERN Project**.
@@ -208,10 +196,10 @@
 
 ---
 
-<!-- Connect with Me Section with Animated Icons -->
-### 📫 Let's Connect
+<!-- Connect with Me Section -->
+## 📫 Let's Connect
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -233,7 +221,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-<!-- Footer Banner Animation -->
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
 </p>
