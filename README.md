@@ -99,21 +99,18 @@
 
 
 
-
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20There!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
 <!-- Introduction -->
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">
-  Hi, I'm <strong>Alimuhammad Rajwani</strong>, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
-  My interests range from <strong>Web Development</strong>, <strong>Cybersecurity</strong>, to <strong>Programming</strong> and <strong>Networking</strong>.  
-  I enjoy turning complex problems into simple, beautiful solutions.  
-  My motto is to <strong>"Learn, Build, Share"</strong> while continually pushing the boundaries of creativity and code.
+  Hi, I'm Alimuhammad Rajwani, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
+  I'm deeply fascinated by the world of programming, cybersecurity, and web development.  
+  Always exploring new technologies and embracing challenges with a problem-solving mindset.
 </p>
 
 <p align="center">
@@ -122,18 +119,14 @@
 
 ---
 
-<!-- About Me with Image -->
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- About Me Section with Icons -->
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
-</p>
-
-<p align="center">
-  I'm always curious to learn new things and evolve as a better developer.  
-  When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶.  
-  Life is a journey of exploration, and I'm here to explore the depths of technology!
-</p>
+- 🔭 I’m currently working on mastering **Cybersecurity & Web Development**.
+- 🌱 I’m currently learning **React.js** and **Cloud Computing**.
+- 💬 Ask me about **Python**, **JavaScript**, **Data Structures** & **Algorithms**.
+- 📫 How to reach me: **alimuhammad.email@example.com**
+- ⚡ Fun fact: I love **stargazing** and **gaming** when I'm not coding.
 
 ---
 
@@ -164,19 +157,6 @@
 
 ---
 
-<!-- Tools and Technologies -->
-### 🛠️ Tools & Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-181717?style=for-the-badge&logo=github" />
-</div>
-
----
-
 <!-- Project Showcase Section -->
 ### 🌟 Featured Projects
 
@@ -188,22 +168,8 @@
 
 ---
 
-<!-- Animated GIF for Developer Life -->
-<h2 align="center">🚧 Current Projects</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="250" alt="coding gif" />
-</p>
-
-- 🔭 I’m currently working on a **Full-Stack MERN Project**.
-- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.
-- 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!
-- 📫 How to reach me: **alimuhammad.email@example.com**
-
----
-
-<!-- Connect with Me Section -->
-### 📫 Let's Connect
+<!-- Contact & Social Media Links -->
+### 📫 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
