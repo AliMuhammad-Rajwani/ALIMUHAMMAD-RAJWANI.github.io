@@ -101,13 +101,19 @@
 
 
 
-<!-- Banner -->
+
+
+<!-- Header Banner with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
-<!-- Introduction -->
+<!-- Introduction Section with Lottie Animation -->
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+
+<p align="center">
+  <img src="https://assets2.lottiefiles.com/packages/lf20_schkyh7i.json" width="400px" height="300px" alt="animated welcome" />
+</p>
 
 <p align="center">
   Hi, I'm <strong>Alimuhammad Rajwani</strong>, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
@@ -122,11 +128,11 @@
 
 ---
 
-<!-- About Me with Image -->
+<!-- About Me with Animation GIF -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="about me animation" />
 </p>
 
 <p align="center">
@@ -164,11 +170,11 @@
 
 ---
 
-<!-- Tools and Technologies -->
+<!-- Tools and Technologies with Animation -->
 ### 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -177,7 +183,7 @@
 
 ---
 
-<!-- Project Showcase Section -->
+<!-- Project Showcase Section with Animation -->
 ### 🌟 Featured Projects
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
@@ -188,7 +194,7 @@
 
 ---
 
-<!-- Animated GIF for Developer Life -->
+<!-- Developer Life Animation GIF -->
 <h2 align="center">🚧 Current Projects</h2>
 
 <p align="center">
@@ -202,7 +208,7 @@
 
 ---
 
-<!-- Connect with Me Section -->
+<!-- Connect with Me Section with Animated Icons -->
 ### 📫 Let's Connect
 
 <div align="center">
@@ -227,11 +233,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-<!-- Footer Banner -->
+<!-- Footer Banner Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
 </p>
-
-
-
-
