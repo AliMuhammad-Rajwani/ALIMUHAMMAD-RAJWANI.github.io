@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
@@ -21,7 +5,6 @@
 
 <!-- Introduction Section -->
 # Welcome to My GitHub Profile! 👋
-
 
 - 👋 Greetings, fellow tech voyagers! I'm Alimuhammad Rajwani, a dedicated BSIT student at Sir Syed University.
 - 👨‍💻 Welcome to my digital playground! I have a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
@@ -58,9 +41,9 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="max-width: 100%; height: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
@@ -69,9 +52,9 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
-| [🚀 CPU SCHDULING ALGORITM CALCULATOR](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git) |This project implements a Process Scheduling Calculator, providing a practical tool for simulating and analyzing various process scheduling algorithms commonly used in operating systems. | C# |
-| [🛠️ WINDOWN SYSTEM UPDATE](https://github.com/AliMuhammad-Rajwani/Window-System-Update.git) | This batch script is designed to automate the process of updating a Windows system using PowerShell. It ensures that the necessary PowerShell module PSWindowsUpdate is installed and then checks for and installs any available updates. The script logs all activities, providing a detailed report of the update process.       | Bash file    |
-| [🔐 Network Security Tool](https://github.com/ALIMUHAMMAD-RAJWANI/net-sec-tool) |This project is a comprehensive Coffee Shop Management System developed using C# with a GUI panel. It is designed to streamline and automate various operations within a coffee shop environment, enhancing efficiency and customer service. | C# , SQl Database        |
+| [🚀 CPU SCHDULING ALGORITM CALCULATOR](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git) | This project implements a Process Scheduling Calculator, providing a practical tool for simulating and analyzing various process scheduling algorithms commonly used in operating systems. | C# |
+| [🛠️ WINDOWN SYSTEM UPDATE](https://github.com/AliMuhammad-Rajwani/Window-System-Update.git) | This batch script is designed to automate the process of updating a Windows system using PowerShell. It ensures that the necessary PowerShell module PSWindowsUpdate is installed and then checks for and installs any available updates. The script logs all activities, providing a detailed report of the update process. | Bash file |
+| [☕ COFFEE SHOP](https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git) | This project is a comprehensive Coffee Shop Management System developed using C# with a GUI panel. It is designed to streamline and automate various operations within a coffee shop environment, enhancing efficiency and customer service. | C#, SQL Database |
 
 ---
 
