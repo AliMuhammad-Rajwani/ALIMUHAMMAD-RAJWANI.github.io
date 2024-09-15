@@ -48,7 +48,6 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ---
 
-
 ## 🌟 Featured Projects
 
 <table>
@@ -107,14 +106,12 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   </tr>
 </table>
 
-
-
 ---
 
 ## 🚧 Current Projects
 
-- 🔭 I’m currently working on a **Python**.  
-- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications From Microsoft.  
+- 🔭 I’m currently working on a **Python** project.  
+- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications from Microsoft.  
 - 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!  
 - 📫 How to reach me: **alirajwani59@gmail.com**
 
@@ -139,9 +136,9 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-Student-1F8BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer" />
   </a>
 
-<a href= "https://github.com/AliMuhammad-Rajwani/Cv.git" download>
-  <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
-</a>
+  <a href="https://github.com/AliMuhammad-Rajwani/Cv.git" download>
+    <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
+  </a>
 
 </div>
 
