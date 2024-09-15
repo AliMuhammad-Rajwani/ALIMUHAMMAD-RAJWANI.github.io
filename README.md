@@ -50,47 +50,53 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 ## 🌟 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1200px; margin: auto; padding: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: auto; padding: 20px;">
 
   <!-- Project 1 -->
-  <div style="background: #f9f9f9; border-radius: 15px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); overflow: hidden; flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; max-width: 340px; transition: transform 0.3s, box-shadow 0.3s; position: relative; border: 2px solid #e1e4e8;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git" style="display: block; text-align: center; padding: 15px; background: #f4f4f4; color: #0056b3; text-decoration: none; border-bottom: 1px solid #ddd;">
-      <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" style="max-width: 100%; height: auto;"/>
-      <h3 style="margin-top: 10px; font-size: 1.1em; font-weight: bold; color: #333;">🚀 CPU Scheduling Algorithm Calculator</h3>
+  <div style="background: #fff; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; cursor: pointer; border: 1px solid #ddd; display: flex; flex-direction: column;">
+    <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git" style="text-decoration: none; color: inherit;">
+      <div style="background: #00599C; color: #fff; padding: 15px; text-align: center;">
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" style="max-width: 100%; height: auto;"/>
+        <h3 style="margin: 10px 0 0; font-size: 1.3em; font-weight: bold;">🚀 CPU Scheduling Algorithm Calculator</h3>
+      </div>
+      <div style="padding: 20px;">
+        <p style="font-size: 0.95em; color: #444; margin-bottom: 10px;">A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems.</p>
+        <strong>Tech Stack:</strong><br />
+        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      </div>
     </a>
-    <div style="padding: 15px; font-size: 0.9em; color: #555;">
-      <p style="margin-bottom: 10px;">A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems.</p>
-      <strong>Tech Stack:</strong><br />
-      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-    </div>
   </div>
 
   <!-- Project 2 -->
-  <div style="background: #f9f9f9; border-radius: 15px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); overflow: hidden; flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; max-width: 340px; transition: transform 0.3s, box-shadow 0.3s; position: relative; border: 2px solid #e1e4e8;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git" style="display: block; text-align: center; padding: 15px; background: #f4f4f4; color: #0056b3; text-decoration: none; border-bottom: 1px solid #ddd;">
-      <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" style="max-width: 100%; height: auto;"/>
-      <h3 style="margin-top: 10px; font-size: 1.1em; font-weight: bold; color: #333;">🛠️ Windows System Update</h3>
+  <div style="background: #fff; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; cursor: pointer; border: 1px solid #ddd; display: flex; flex-direction: column;">
+    <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git" style="text-decoration: none; color: inherit;">
+      <div style="background: #0078D4; color: #fff; padding: 15px; text-align: center;">
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" style="max-width: 100%; height: auto;"/>
+        <h3 style="margin: 10px 0 0; font-size: 1.3em; font-weight: bold;">🛠️ Windows System Update</h3>
+      </div>
+      <div style="padding: 20px;">
+        <p style="font-size: 0.95em; color: #444; margin-bottom: 10px;">Automates Windows system updates using PowerShell, with detailed logging and necessary module installations.</p>
+        <strong>Tech Stack:</strong><br />
+        <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
+      </div>
     </a>
-    <div style="padding: 15px; font-size: 0.9em; color: #555;">
-      <p style="margin-bottom: 10px;">Automates Windows system updates using PowerShell, with detailed logging and necessary module installations.</p>
-      <strong>Tech Stack:</strong><br />
-      <img src="https://img.shields.io/badge/Script-PowerShell-4B8BBE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-      <img src="https://img.shields.io/badge/Script-Bash-4EAA25?style=flat-square&logo=bash&logoColor=white" alt="Bash" />
-    </div>
   </div>
 
   <!-- Project 3 -->
-  <div style="background: #f9f9f9; border-radius: 15px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); overflow: hidden; flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; max-width: 340px; transition: transform 0.3s, box-shadow 0.3s; position: relative; border: 2px solid #e1e4e8;">
-    <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git" style="display: block; text-align: center; padding: 15px; background: #f4f4f4; color: #0056b3; text-decoration: none; border-bottom: 1px solid #ddd;">
-      <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" style="max-width: 100%; height: auto;"/>
-      <h3 style="margin-top: 10px; font-size: 1.1em; font-weight: bold; color: #333;">☕ Coffee Shop Management System</h3>
+  <div style="background: #fff; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); overflow: hidden; transition: transform 0.3s; cursor: pointer; border: 1px solid #ddd; display: flex; flex-direction: column;">
+    <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git" style="text-decoration: none; color: inherit;">
+      <div style="background: #6D2C91; color: #fff; padding: 15px; text-align: center;">
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" style="max-width: 100%; height: auto;"/>
+        <h3 style="margin: 10px 0 0; font-size: 1.3em; font-weight: bold;">☕ Coffee Shop Management System</h3>
+      </div>
+      <div style="padding: 20px;">
+        <p style="font-size: 0.95em; color: #444; margin-bottom: 10px;">A comprehensive management system for coffee shops with a GUI panel developed in C#, aimed at improving operations and customer service.</p>
+        <strong>Tech Stack:</strong><br />
+        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
+      </div>
     </a>
-    <div style="padding: 15px; font-size: 0.9em; color: #555;">
-      <p style="margin-bottom: 10px;">A comprehensive management system for coffee shops with a GUI panel developed in C#, aimed at improving operations and customer service.</p>
-      <strong>Tech Stack:</strong><br />
-      <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Database" />
-    </div>
   </div>
 
 </div>
