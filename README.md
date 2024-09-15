@@ -85,6 +85,10 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
   <a href="https://education.github.com/experts">
     <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-Student-1F8BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer" />
   </a>
+<a href="https://github.com/AlimuhammadRajwani/My-CV/raw/main/CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="CV" />
+  </a>
+
 </div>
 
 ---
