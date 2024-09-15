@@ -53,7 +53,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
         <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" />
       </a>
@@ -70,7 +70,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
         <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" />
       </a>
@@ -88,7 +88,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
         <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" />
       </a>
