@@ -101,38 +101,45 @@
 
 
 
-<!-- Header Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
-<!-- Introduction Section -->
-# Welcome to My GitHub Profile! 👋
+<!-- Introduction -->
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-<div align="left" style="display: flex; justify-content: space-between;">
-  <!-- Left Side Text -->
-  <div style="flex: 70%; padding-right: 20px;">
-    Hi, I'm **Alimuhammad Rajwani**, a passionate **BSIT Student** at Sir Syed University.  
-    My interests range from **Web Development**, **Cybersecurity**, to **Programming** and **Networking**.  
-    I enjoy turning complex problems into simple, beautiful solutions.  
-    My motto is to **"Learn, Build, Share"** while continually pushing the boundaries of creativity and code.
+<p align="center">
+  Hi, I'm <strong>Alimuhammad Rajwani</strong>, a passionate <strong>BSIT Student</strong> at Sir Syed University.  
+  My interests range from <strong>Web Development</strong>, <strong>Cybersecurity</strong>, to <strong>Programming</strong> and <strong>Networking</strong>.  
+  I enjoy turning complex problems into simple, beautiful solutions.  
+  My motto is to <strong>"Learn, Build, Share"</strong> while continually pushing the boundaries of creativity and code.
+</p>
 
-    > *"Coding is not just a profession, it's an art where every line is a stroke of innovation."*
-
-    When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶. Life is a journey of exploration, and I'm here to explore the depths of technology!
-  </div>
-
-  <!-- Right Side Image -->
-  <div style="flex: 30%;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="coding gif" />
-  </div>
-</div>
+<p align="center">
+  <em>"Coding is not just a profession, it's an art where every line is a stroke of innovation."</em>
+</p>
 
 ---
 
-## 🚀 Skills & Technologies
+<!-- About Me with Image -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-<div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+</p>
+
+<p align="center">
+  I'm always curious to learn new things and evolve as a better developer.  
+  When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶.  
+  Life is a journey of exploration, and I'm here to explore the depths of technology!
+</p>
+
+---
+
+### 🚀 Skills & Technologies
+
+<div align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -147,9 +154,9 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" />
@@ -157,8 +164,21 @@
 
 ---
 
+<!-- Tools and Technologies -->
+### 🛠️ Tools & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-181717?style=for-the-badge&logo=github" />
+</div>
+
+---
+
 <!-- Project Showcase Section -->
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
@@ -168,30 +188,24 @@
 
 ---
 
-<!-- Developer Life Animation GIF -->
-## 🚧 Current Projects
+<!-- Animated GIF for Developer Life -->
+<h2 align="center">🚧 Current Projects</h2>
 
-<div align="left" style="display: flex; justify-content: space-between;">
-  <!-- Left Side Text -->
-  <div style="flex: 70%; padding-right: 20px;">
-    - 🔭 I’m currently working on a **Full-Stack MERN Project**.  
-    - 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.  
-    - 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!  
-    - 📫 How to reach me: **alimuhammad.email@example.com**
-  </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="250" alt="coding gif" />
+</p>
 
-  <!-- Right Side Image -->
-  <div style="flex: 30%;">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%" height="auto" alt="coding gif" />
-  </div>
-</div>
+- 🔭 I’m currently working on a **Full-Stack MERN Project**.
+- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.
+- 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!
+- 📫 How to reach me: **alimuhammad.email@example.com**
 
 ---
 
 <!-- Connect with Me Section -->
-## 📫 Let's Connect
+### 📫 Let's Connect
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -215,6 +229,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 </p>
-
