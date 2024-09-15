@@ -49,20 +49,20 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 ---
 
 
-
-
 ## 🌟 Featured Projects
 
 <table>
   <tr>
-    <td>
+    <td width="30%">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-004B87?style=flat-square&logo=c-sharp&logoColor=white" alt="CPU Scheduling Algorithm Calculator" />
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white&labelColor=003B57" alt="CPU Scheduling Algorithm Calculator" />
       </a>
     </td>
     <td>
-      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
-      A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+      <div style="border-left: 3px solid #003B57; padding-left: 10px;">
+        <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
+        A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+      </div>
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
@@ -70,14 +70,16 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="30%">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows System Update" />
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=005A9E" alt="Windows System Update" />
       </a>
     </td>
     <td>
-      <strong>🛠️ Windows System Update</strong><br />
-      Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+      <div style="border-left: 3px solid #005A9E; padding-left: 10px;">
+        <strong>🛠️ Windows System Update</strong><br />
+        Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+      </div>
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
@@ -86,14 +88,16 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="30%">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white&labelColor=4B1F6A" alt="Coffee Shop Management" />
       </a>
     </td>
     <td>
-      <strong>☕ Coffee Shop Management System</strong><br />
-      A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+      <div style="border-left: 3px solid #4B1F6A; padding-left: 10px;">
+        <strong>☕ Coffee Shop Management System</strong><br />
+        A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+      </div>
     </td>
     <td>
       <strong>Tech Stack:</strong><br />
@@ -102,12 +106,6 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 
 
