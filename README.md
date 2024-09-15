@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Ali Muhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
 <!-- Introduction Section -->
