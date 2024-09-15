@@ -101,7 +101,6 @@
 
 
 
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I%20am%20Alimuhammad%20Rajwani!%20&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header banner" />
@@ -110,25 +109,24 @@
 <!-- Introduction Section -->
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm **Alimuhammad Rajwani**, a passionate **BSIT Student** at Sir Syed University.  
-My interests range from **Web Development**, **Cybersecurity**, to **Programming** and **Networking**.  
-I enjoy turning complex problems into simple, beautiful solutions.  
-My motto is to **"Learn, Build, Share"** while continually pushing the boundaries of creativity and code.
+<div align="left" style="display: flex; justify-content: space-between;">
+  <!-- Left Side Text -->
+  <div style="flex: 70%; padding-right: 20px;">
+    Hi, I'm **Alimuhammad Rajwani**, a passionate **BSIT Student** at Sir Syed University.  
+    My interests range from **Web Development**, **Cybersecurity**, to **Programming** and **Networking**.  
+    I enjoy turning complex problems into simple, beautiful solutions.  
+    My motto is to **"Learn, Build, Share"** while continually pushing the boundaries of creativity and code.
 
-> *"Coding is not just a profession, it's an art where every line is a stroke of innovation."*
+    > *"Coding is not just a profession, it's an art where every line is a stroke of innovation."*
 
----
+    When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶. Life is a journey of exploration, and I'm here to explore the depths of technology!
+  </div>
 
-<!-- About Me Section with Responsive Image -->
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" height="80%" alt="coding gif" />
-</p>
-
-I'm always curious to learn new things and evolve as a better developer.  
-When I'm not coding, you'll likely find me stargazing 🌌, experimenting with tech gadgets 🖥️, or jamming to some electronic beats 🎶.  
-Life is a journey of exploration, and I'm here to explore the depths of technology!
+  <!-- Right Side Image -->
+  <div style="flex: 30%;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="coding gif" />
+  </div>
+</div>
 
 ---
 
@@ -159,18 +157,6 @@ Life is a journey of exploration, and I'm here to explore the depths of technolo
 
 ---
 
-## 🛠️ Tools & Technologies
-
-<div>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-181717?style=for-the-badge&logo=github" />
-</div>
-
----
-
 <!-- Project Showcase Section -->
 ## 🌟 Featured Projects
 
@@ -185,14 +171,20 @@ Life is a journey of exploration, and I'm here to explore the depths of technolo
 <!-- Developer Life Animation GIF -->
 ## 🚧 Current Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80%" height="80%" alt="coding gif" />
-</p>
+<div align="left" style="display: flex; justify-content: space-between;">
+  <!-- Left Side Text -->
+  <div style="flex: 70%; padding-right: 20px;">
+    - 🔭 I’m currently working on a **Full-Stack MERN Project**.  
+    - 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.  
+    - 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!  
+    - 📫 How to reach me: **alimuhammad.email@example.com**
+  </div>
 
-- 🔭 I’m currently working on a **Full-Stack MERN Project**.
-- 🌱 Learning **Cloud Computing** and **React Native** to build mobile applications.
-- 💬 Ask me about **Data Structures**, **Algorithms**, or any coding challenges!
-- 📫 How to reach me: **alimuhammad.email@example.com**
+  <!-- Right Side Image -->
+  <div style="flex: 30%;">
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%" height="auto" alt="coding gif" />
+  </div>
+</div>
 
 ---
 
@@ -225,3 +217,4 @@ Life is a journey of exploration, and I'm here to explore the depths of technolo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
 </p>
+
