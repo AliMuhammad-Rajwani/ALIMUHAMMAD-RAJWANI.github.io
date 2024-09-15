@@ -69,7 +69,7 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 
 | **Project Name**      | **Description**                                   | **Tech Stack**           |
 |-----------------------|---------------------------------------------------|--------------------------|
-| [🚀 CPU SCHDULING ALGORITM CALCULATOR](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git) |This project implements a Process Scheduling Calculator, providing a practical tool for simulating and analyzing various process scheduling algorithms commonly used in operating systems. |
+| [🚀 CPU SCHDULING ALGORITM CALCULATOR](https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git) |This project implements a Process Scheduling Calculator, providing a practical tool for simulating and analyzing various process scheduling algorithms commonly used in operating systems. | C# |
 | [🛠️ Task Manager App](https://github.com/ALIMUHAMMAD-RAJWANI/task-manager) | Task management web app to organize daily activities.       | Python, Flask, SQLite     |
 | [🔐 Network Security Tool](https://github.com/ALIMUHAMMAD-RAJWANI/net-sec-tool) | A cybersecurity tool for network vulnerability scanning. | Python, Networking        |
 
