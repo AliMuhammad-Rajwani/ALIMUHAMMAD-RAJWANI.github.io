@@ -56,6 +56,70 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 | [🛠️ WINDOWN SYSTEM UPDATE](https://github.com/AliMuhammad-Rajwani/Window-System-Update.git) | This batch script is designed to automate the process of updating a Windows system using PowerShell. It ensures that the necessary PowerShell module PSWindowsUpdate is installed and then checks for and installs any available updates. The script logs all activities, providing a detailed report of the update process. | Bash file |
 | [☕ COFFEE SHOP](https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git) | This project is a comprehensive Coffee Shop Management System developed using C# with a GUI panel. It is designed to streamline and automate various operations within a coffee shop environment, enhancing efficiency and customer service. | C#, SQL Database |
 
+
+
+
+
+
+
+
+
+
+
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Algorithm%20Calculator-blue?style=for-the-badge&logo=windows&logoColor=white" alt="CPU Scheduling Algorithm Calculator" />
+      </a>
+    </td>
+    <td>
+      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
+      A practical tool for simulating and analyzing various process scheduling algorithms used in operating systems. Designed to help understand the performance of different scheduling strategies.
+    </td>
+    <td>
+      <strong>Tech Stack:</strong><br />
+      C#
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows System Update" />
+      </a>
+    </td>
+    <td>
+      <strong>🛠️ Windows System Update</strong><br />
+      Automates Windows system updates using PowerShell. Installs necessary modules and performs updates with detailed logging of the update process.
+    </td>
+    <td>
+      <strong>Tech Stack:</strong><br />
+      Bash script, PowerShell
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-blue?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+      </a>
+    </td>
+    <td>
+      <strong>☕ Coffee Shop Management System</strong><br />
+      A comprehensive management system for coffee shops, featuring a GUI panel developed in C#. Aims to streamline operations and enhance customer service.
+    </td>
+    <td>
+      <strong>Tech Stack:</strong><br />
+      C#, SQL Database
+    </td>
+  </tr>
+</table>
+
+
+
+
 ---
 
 ## 🚧 Current Projects
