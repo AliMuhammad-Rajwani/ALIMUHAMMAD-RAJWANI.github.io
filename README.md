@@ -75,6 +75,7 @@ I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed Universi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;" />
 </div>
+
 ---
 
 ## 🚀 Current Focus
