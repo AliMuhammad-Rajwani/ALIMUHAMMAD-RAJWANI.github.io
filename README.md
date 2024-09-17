@@ -142,3 +142,164 @@ When I'm not coding, you'll likely find me stargazing 🌌, experimenting with t
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer banner" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=header&text=Welcome!%20I'm%20Alimuhammad%20Rajwani&fontSize=35&fontColor=FFFFFF&animation=twinkling" alt="Header Banner" />
+</p>
+
+<!-- Introduction Section -->
+# 🚀 Hello World! 🌍
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Tech+Solutions+with+Passion;BSIT+Student+%40+SSUET;Cybersecurity+Explorer;Tech+Voyager;Innovation+Enthusiast" alt="Typing Animation" />
+</p>
+
+Welcome to my digital universe! I’m **Alimuhammad Rajwani**, a BSIT student with a fervor for coding, cybersecurity, and design. With each line of code, I transform ideas into digital masterpieces—whether I'm crafting dynamic web experiences or architecting robust cybersecurity frameworks, it's all part of the adventure.
+
+- 🎨 **Creative Coder**: Every repository is my playground, where art and code merge to create something unique.
+- 🧭 **Tech Adventurer**: From **web development** to **networking**, I explore the digital realms with boundless curiosity.
+- 🌌 **Passionate Explorer**: When not coding, you’ll find me stargazing or losing myself in the rhythms of electronic music.
+
+> *"Programming is the poetry of logical minds. Each line tells a story, each bug a plot twist."*
+
+---
+
+## 💡 What Drives Me
+
+- 🌱 Currently expanding my expertise in **Python**, **Cloud Computing**, and **React Native**.
+- 🛠️ Building solutions with the latest tech stacks, from **C#** and **JavaScript** to **SQL** databases.
+- 🤝 Aiming to foster collaboration and push the limits of **innovation**.
+  
+When not immersed in tech, I'm busy diving into the cosmos, discovering the latest gadgets, or contemplating life’s mysteries. 🚀
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,sql,powershell,bash" alt="Skills Icons" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=algolia" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=algolia" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=algolia" alt="Top Languages" height="180em" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<table style="width: 100%; margin: auto;">
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
+        <img src="https://img.shields.io/badge/Project-CPU%20Scheduling%20Calculator-00599C?style=flat-square&logo=c-sharp&logoColor=white" alt="CPU Scheduling Algorithm" />
+      </a>
+    </td>
+    <td>
+      <strong>🚀 CPU Scheduling Algorithm Calculator</strong><br />
+      A practical tool for simulating and analyzing scheduling algorithms used in operating systems.
+      <br /><strong>Tech Stack:</strong> C#
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
+        <img src="https://img.shields.io/badge/Project-Windows%20System%20Update-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows System Update" />
+      </a>
+    </td>
+    <td>
+      <strong>🛠️ Windows System Update</strong><br />
+      Automating system updates using PowerShell with detailed logging.
+      <br /><strong>Tech Stack:</strong> PowerShell, Bash
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="text-align: center;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
+        <img src="https://img.shields.io/badge/Project-Coffee%20Shop%20Management-6D2C91?style=flat-square&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+      </a>
+    </td>
+    <td>
+      <strong>☕ Coffee Shop Management System</strong><br />
+      A C# based GUI system to streamline coffee shop operations.
+      <br /><strong>Tech Stack:</strong> C#, SQL
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ Current Projects
+
+- 🔭 Diving into **Python** for more advanced scripting projects.
+- 🌱 Learning **Cloud Computing** to build scalable applications.
+- 💬 Ask me about **algorithms**, **cybersecurity**, or **web design**!
+  
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alirajwani59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ALIMUHAMMAD-RAJWANI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://education.github.com/experts">
+    <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-1F8BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer" />
+  </a>
+  <a href="https://github.com/AliMuhammad-Rajwani/Cv.git" download>
+    <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
+  </a>
+</div>
+
+---
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=footer" alt="Footer Banner" />
+</p>
+
+
