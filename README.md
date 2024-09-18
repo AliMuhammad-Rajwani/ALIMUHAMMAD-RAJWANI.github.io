@@ -70,10 +70,16 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical" alt="GitHub Streak" height="180em" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" height="180em" style="max-width: 100%; height: auto;" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&hide=issues&hide_title=false" height="180em" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=algolia&hide_border=false" height="180em" alt="GitHub Streak" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=algolia&langs_count=8&hide=php" height="180em" alt="Top Languages" />
 </div>
+
 
 ---
 
