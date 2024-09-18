@@ -125,3 +125,77 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=footer" alt="Footer" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Fancy Heading -->
+<h2 align="center">
+  🚀✨ <strong>Explore My GitHub Universe!</strong> ✨🚀
+</h2>
+
+<!-- Animated Subheading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Unlocking+the+Power+of+Code;BSIT+Student+|+Cybersecurity+Explorer;Building+Innovative+Solutions+in+Tech" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 GitHub Insights & Achievements
+
+<div align="center">
+  <!-- Custom Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=issues&custom_title=🌟%20GitHub%20Highlights&hide_title=false" height="180em" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak with Animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=gruvbox&fire=FF4500&ring=FFD700&border=303030&background=0D1117&hide_border=false" height="180em" alt="GitHub Streak" />
+
+  <!-- Top Languages with Cool Layout -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=gruvbox&langs_count=6&hide=php&title_color=FFD700" height="180em" alt="Top Languages" />
+</div>
+
+---
+
+<!-- Cool Animated Contribution Snake -->
+## 🐍 Watch My Contributions Grow!
+<div align="center">
+  <img src="https://github.com/ALIMUHAMMAD-RAJWANI/ALIMUHAMMAD-RAJWANI/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 💡 Let's Connect and Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/alimuhammadrajwani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alirajwani59@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ALIMUHAMMAD-RAJWANI" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4500&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=FFFFFF&fontAlignY=40" alt="Footer" />
+</p>
