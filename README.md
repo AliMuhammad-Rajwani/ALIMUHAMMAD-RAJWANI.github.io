@@ -23,7 +23,7 @@ I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed Universi
 ## ⚡️ Skills
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,sql,linux,git,bash,azure,ps" alt="Tech Stack" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react, SQL,linux,git,bash,azure,ps" alt="Tech Stack" /> 
 </p>
 
 ---
