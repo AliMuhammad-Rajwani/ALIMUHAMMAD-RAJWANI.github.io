@@ -106,7 +106,7 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
   <a href="https://education.github.com/experts">
     <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-1F8BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer" />
   </a>
-  <a href="https://github.com/AlimuhammadRajwani/Cv.git" download>
+  <a href="https://github.com/AliMuhammad-Rajwani/Cv" download>
     <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
   </a>
 </p>
