@@ -67,7 +67,7 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 ---
 
-## 📊 GitHub Stats
+## 📉 GitHub Stats
 
 <div align="center">
   <!-- GitHub Stats Card -->
