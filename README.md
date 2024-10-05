@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
 </p>
-
 ---
 
 ## 🌐 About Me
