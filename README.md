@@ -189,6 +189,7 @@ Hey there! I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir S
 
 ---
 
+
 ## 🛠️ Featured Projects
 
 <div align="center">
@@ -227,21 +228,32 @@ Hey there! I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir S
   </tr>
 </table>
 </div>
-
 ---
 
 ## 📊 GitHub Performance
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub%20Stats" height="180em" alt="GitHub Stats" />
+  <div style="border: 2px solid #004aad; padding: 10px; border-radius: 10px; transition: transform 0.3s ease;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub%20Stats" height="200em" alt="GitHub Stats" />
+  </div>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=react" height="180em" alt="GitHub Streak" />
+  <div style="border: 2px solid #0078D4; padding: 10px; border-radius: 10px; transition: transform 0.3s ease;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=algolia&hide_border=false" height="200em" alt="GitHub Streak" />
+  </div>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=react&langs_count=8&hide=php" height="180em" alt="Top Languages" />
+  <div style="border: 2px solid #6f4e8b; padding: 10px; border-radius: 10px; transition: transform 0.3s ease;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=algolia&langs_count=8&hide=php" height="200em" alt="Top Languages" />
+  </div>
 </div>
+
+<style>
+  div:hover {
+    transform: scale(1.05);
+  }
+</style>
 
 ---
 
