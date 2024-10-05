@@ -28,58 +28,48 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 ---
 
-## 🛠️ Featured Projects
+## 🌈 Featured Projects
 
-<table align="center" width="100%">
+### 🚀 Project Highlights
+<table align="center" width="90%">
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/-CPU%20Scheduling%20Algorithm-00aaff?style=for-the-badge&logo=csharp&logoColor=white" alt="CPU Scheduling Calculator" />
+        <img src="https://img.shields.io/badge/CPU%20Scheduling-00aaff?style=flat&logo=csharp&logoColor=white" alt="CPU Scheduling" />
       </a>
-      <p>Simulates CPU scheduling algorithms in operating systems.</p>
-      <strong>Tech Stack:</strong> C#
+      <p style="font-weight:bold;">Simulates various CPU scheduling algorithms.</p>
     </td>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/-Windows%20System%20Update-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows System Update" />
+        <img src="https://img.shields.io/badge/Windows%20Updater-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Updater" />
       </a>
-      <p>Automates Windows system updates using PowerShell and Bash.</p>
-      <strong>Tech Stack:</strong> PowerShell, Bash
+      <p style="font-weight:bold;">Automates Windows system updates via PowerShell.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/-Coffee%20Shop%20Management-6d2c91?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+        <img src="https://img.shields.io/badge/Coffee%20Shop%20Manager-6d2c91?style=flat&logo=coffee&logoColor=white" alt="Coffee Shop Manager" />
       </a>
-      <p>Manages orders and inventory for coffee shops.</p>
-      <strong>Tech Stack:</strong> C#, SQL
+      <p style="font-weight:bold;">Manages orders and inventory efficiently.</p>
     </td>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
-        <img src="https://img.shields.io/badge/-React%20Native%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native App" />
+        <img src="https://img.shields.io/badge/React%20Native%20App-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native App" />
       </a>
-      <p>A mobile app built with React Native for cross-platform development.</p>
-      <strong>Tech Stack:</strong> React Native, JavaScript
+      <p style="font-weight:bold;">A cross-platform mobile application.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📉 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&hide=issues&hide_title=false" height="180em" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=algolia&hide_border=false" height="180em" alt="GitHub Streak" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=algolia&langs_count=8&hide=php" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=monokai&hide_border=false" alt="GitHub Streak" width="350"/>
 </div>
-
 
 ---
 
