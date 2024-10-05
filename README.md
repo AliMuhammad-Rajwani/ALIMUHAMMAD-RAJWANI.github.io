@@ -130,14 +130,13 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ALIMUHAMMAD-RAJWANI/ALIMUHAMMAD-RAJWANI/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 
 
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
 
 
 
