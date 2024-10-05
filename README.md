@@ -158,8 +158,6 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
-
-
 <!-- Header Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=36&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
@@ -274,3 +272,5 @@ Hello! I’m **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Sye
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
+
