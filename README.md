@@ -161,94 +161,88 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
-<!-- Header Banner -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
-</p>
-
-<!-- Professional Tagline with Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator;Cybersecurity+Explorer;Lifelong+Learner" alt="Professional Tagline" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=36&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
 </p>
 
 ---
 
-## 🌐 About Me
+## 👨‍💻 About Me
 
-I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed University of Engineering and Technology**. My passion lies in **cybersecurity**, **cloud computing**, and **software development**. I aim to combine creativity with real-world solutions, contribute meaningfully to the tech community, and continue my journey of lifelong learning.
+Hello! I’m **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. My interests lie at the intersection of **cybersecurity**, **cloud computing**, and **software development**. I aim to leverage technology to create impactful solutions.
 
-- 🛡️ **Cybersecurity Enthusiast**: Passionate about uncovering security vulnerabilities and effective risk management.
-- 🌐 **Full-Stack Developer**: Skilled in both front-end and back-end development.
-- 📚 **Lifelong Learner**: Committed to mastering **Python**, **C#**, and **React Native**.
-
----
-
-## ⚡️ My Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,linux,git,bash,azure,ps&perline=6" alt="Tech Stack" />
-</p>
+- **Current Focus**: Exploring **Python** and **C#** for innovative projects.
+- **Learning Path**: Diving deep into **cloud technologies** and **full-stack development**.
+- **Interests**: Engaging with the tech community to exchange ideas and grow.
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Skills
 
-<table align="center" width="100%">
+### Programming Languages:
+- **C#** 
+- **Python**
+- **JavaScript**
+
+### Frameworks & Tools:
+- **React**
+- **Node.js**
+- **Azure**
+- **Linux**
+
+### Additional Skills:
+- **Version Control**: Git
+- **Database Management**: SQL
+
+---
+
+## 🚀 Projects
+
+### Featured Work:
+<table align="center" width="80%">
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/-CPU%20Scheduling%20Algorithm-00aaff?style=for-the-badge&logo=csharp&logoColor=white" alt="CPU Scheduling Calculator" />
+        <img src="https://img.shields.io/badge/CPU%20Scheduling%20Calculator-00aaff?style=flat&logo=csharp&logoColor=white" alt="CPU Scheduling" />
       </a>
-      <p>Simulates CPU scheduling algorithms in operating systems.</p>
-      <strong>Tech Stack:</strong> C#
+      <p>Simulates various CPU scheduling algorithms.</p>
     </td>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/-Windows%20System%20Update-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows System Update" />
+        <img src="https://img.shields.io/badge/Windows%20System%20Updater-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows System Updater" />
       </a>
-      <p>Automates Windows system updates using PowerShell and Bash.</p>
-      <strong>Tech Stack:</strong> PowerShell, Bash
+      <p>Automates Windows system updates.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/-Coffee%20Shop%20Management-6d2c91?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
+        <img src="https://img.shields.io/badge/Coffee%20Shop%20Manager-6d2c91?style=flat&logo=coffee&logoColor=white" alt="Coffee Shop Management" />
       </a>
       <p>Manages orders and inventory for coffee shops.</p>
-      <strong>Tech Stack:</strong> C#, SQL
     </td>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center">
       <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
-        <img src="https://img.shields.io/badge/-React%20Native%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native App" />
+        <img src="https://img.shields.io/badge/React%20Native%20App-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native App" />
       </a>
-      <p>A mobile app built with React Native for cross-platform development.</p>
-      <strong>Tech Stack:</strong> React Native, JavaScript
+      <p>A cross-platform mobile application.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical&hide_border=false" height="180em" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical&langs_count=8&hide=php" height="180em" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Exploring **Python** for data science and automation.
-- 🌱 Developing skills in **cloud technologies** like Azure and AWS.
-- 💬 Let's discuss **software development**, **algorithms**, and **cybersecurity**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=blueberry&hide_border=false" alt="GitHub Streak" width="400"/>
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
@@ -270,14 +264,14 @@ I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed Universi
 
 ---
 
-<!-- Footer -->
+<!-- Footer Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=FFFFFF" alt="Footer" />
 </p>
 
 ---
 
-<!-- GitHub Snake Animation -->
+<!-- GitHub Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
