@@ -156,6 +156,13 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
+
+
+
+
+
+
+
 ## 📉 GitHub Stats
 
 <div align="center" style="padding: 30px; background-color: #1e1e1e; border-radius: 15px; max-width: 1000px; margin: auto;">
@@ -192,6 +199,5 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
     transition: transform 0.3s ease;
   }
 </style>
-
 
 
