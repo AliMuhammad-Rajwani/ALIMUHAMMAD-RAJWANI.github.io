@@ -16,7 +16,7 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 ---
-## ⚡️ My Toolbox
+## ⚡️ My skills 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,linux,git,bash,azure,ps&perline=6" alt="Tech Stack" />
