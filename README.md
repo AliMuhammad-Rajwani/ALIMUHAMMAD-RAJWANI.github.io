@@ -159,6 +159,8 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
+
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
@@ -166,18 +168,18 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 <!-- Professional Tagline with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator;Cybersecurity+Explorer;Lifelong+Learner" alt="Professional Tagline" />
 </p>
 
 ---
 
 ## 🌐 About Me
 
-I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University of Engineering and Technology**. My areas of focus include **cybersecurity**, **cloud computing**, and **software development**. I strive to blend creativity with real-world solutions, contribute to the tech ecosystem, and never stop learning.
+I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed University of Engineering and Technology**. My passion lies in **cybersecurity**, **cloud computing**, and **software development**. I aim to combine creativity with real-world solutions, contribute meaningfully to the tech community, and continue my journey of lifelong learning.
 
-- 🛡️ **Cybersecurity Enthusiast**: Exploring security vulnerabilities and risk management.
-- 🌐 **Full-Stack Development**: Working on both front-end and back-end projects.
-- 📚 **Lifelong Learner**: Continuously expanding my knowledge in **Python**, **C#**, and **React Native**.
+- 🛡️ **Cybersecurity Enthusiast**: Passionate about uncovering security vulnerabilities and effective risk management.
+- 🌐 **Full-Stack Developer**: Skilled in both front-end and back-end development.
+- 📚 **Lifelong Learner**: Committed to mastering **Python**, **C#**, and **React Native**.
 
 ---
 
@@ -228,33 +230,12 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 ---
 
-## 📉 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center" style="padding: 30px; background-color: #1e1e1e; border-radius: 15px; max-width: 1000px; margin: auto;">
-  <h2 style="color: #00bfff; font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 2rem; margin-bottom: 20px;">
-    🚀 My GitHub Performance
-  </h2>
-
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-    <!-- GitHub Stats -->
-    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px;">
-      <h3 style="color: #00bfff; text-align: center; font-family: 'Fira Code', monospace;">📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&hide=issues" alt="GitHub Stats" style="width: 100%; height: auto;" />
-    </div>
-
-    <!-- GitHub Streak -->
-    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px;">
-      <h3 style="color: #ff8c00; text-align: center; font-family: 'Fira Code', monospace;">🔥 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=algolia&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto;" />
-    </div>
-
-    <!-- Top Languages -->
-    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px;">
-      <h3 style="color: #6f4e8b; text-align: center; font-family: 'Fira Code', monospace;">💻 Top Languages</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=algolia&langs_count=8&hide=php" alt="Top Languages" style="width: 100%; height: auto;" />
-    </div>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical&hide_border=false" height="180em" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=radical&langs_count=8&hide=php" height="180em" alt="Top Languages" />
 </div>
 
 ---
@@ -262,8 +243,8 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 ## 🚀 Current Focus
 
 - 🔭 Exploring **Python** for data science and automation.
-- 🌱 Developing skills in **cloud technologies** such as Azure and AWS.
-- 💬 Let's chat about **software development**, **algorithms**, and **cybersecurity**.
+- 🌱 Developing skills in **cloud technologies** like Azure and AWS.
+- 💬 Let's discuss **software development**, **algorithms**, and **cybersecurity**.
 
 ---
 
@@ -291,8 +272,12 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:004aad&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=footer" alt="Footer" />
 </p>
 
+---
 
-
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
