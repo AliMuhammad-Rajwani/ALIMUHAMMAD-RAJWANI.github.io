@@ -157,7 +157,6 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
-
 ## 🚀 GitHub Performance
 
 <div align="center" style="padding: 20px; background: linear-gradient(135deg, #004aad, #00bfff); border-radius: 15px; color: #fff;">
@@ -191,5 +190,6 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
     transform: scale(1.05);
   }
 </style>
+
 
 
