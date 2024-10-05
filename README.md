@@ -160,7 +160,6 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
-
 <!-- Header Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=36&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
