@@ -156,38 +156,40 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 
 
 
+## 📉 GitHub Stats
 
-## 🚀 GitHub Performance
-
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #004aad, #00bfff); border-radius: 15px; color: #fff;">
-  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2rem; margin-bottom: 20px; letter-spacing: 2px;">
-    My GitHub Journey 🚀
+<div align="center" style="padding: 30px; background-color: #1e1e1e; border-radius: 15px; max-width: 1000px; margin: auto;">
+  <h2 style="color: #00bfff; font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 2rem; margin-bottom: 20px;">
+    🚀 My GitHub Performance
   </h2>
 
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; align-items: center;">
-    <!-- GitHub Stats Card -->
-    <div style="background-color: #fff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-      <h3 style="color: #004aad; text-align: center; font-family: 'Fira Code', monospace;">🔢 Stats Overview</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub%20Stats" alt="GitHub Stats" style="height: 180px;" />
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    
+    <!-- GitHub Stats (Bar Graph Animation) -->
+    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px; position: relative;">
+      <h3 style="color: #00bfff; text-align: center; font-family: 'Fira Code', monospace;">📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALIMUHAMMAD-RAJWANI&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&hide=issues" alt="GitHub Stats" style="width: 100%; height: auto; opacity: 0; position: absolute;" onload="this.style.opacity='1'; this.style.transition='opacity 2s ease-in';" />
     </div>
 
-    <!-- GitHub Streak -->
-    <div style="background-color: #fff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-      <h3 style="color: #00bfff; text-align: center; font-family: 'Fira Code', monospace;">🔥 Current Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=transparent&hide_border=false" alt="GitHub Streak" style="height: 180px;" />
+    <!-- GitHub Streak (Sliding Animation) -->
+    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px; overflow: hidden;">
+      <h3 style="color: #ff8c00; text-align: center; font-family: 'Fira Code', monospace;">🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=algolia&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto; transform: translateX(-100%); transition: transform 2s ease-in;" onload="this.style.transform='translateX(0)';" />
     </div>
 
-    <!-- Top Languages Card -->
-    <div style="background-color: #fff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-      <h3 style="color: #6f4e8b; text-align: center; font-family: 'Fira Code', monospace;">💻 Languages</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=transparent&langs_count=8&hide=php" alt="Top Languages" style="height: 180px;" />
+    <!-- Top Languages (Bar Graph Animation) -->
+    <div style="background-color: #2f2f2f; padding: 20px; border-radius: 10px; width: 320px; position: relative;">
+      <h3 style="color: #6f4e8b; text-align: center; font-family: 'Fira Code', monospace;">💻 Top Languages</h3>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALIMUHAMMAD-RAJWANI&layout=compact&theme=algolia&langs_count=8&hide=php" alt="Top Languages" style="width: 100%; height: auto; opacity: 0; position: absolute;" onload="this.style.opacity='1'; this.style.transition='opacity 2s ease-in';" />
     </div>
   </div>
 </div>
 
+<!-- Hover Effect for Cards -->
 <style>
   div:hover {
     transform: scale(1.05);
+    transition: transform 0.3s ease;
   }
 </style>
 
