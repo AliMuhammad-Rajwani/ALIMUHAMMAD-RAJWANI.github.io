@@ -25,7 +25,6 @@ I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,linux,git,bash,azure,ps" alt="Tech Stack" />
 </p>
-
 ---
 
 ## 🛠️ Featured Projects
