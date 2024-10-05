@@ -7,18 +7,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
 </p>
----
-
-## 🌐 About Me
-
-I'm **Alimuhammad Rajwani**, a driven **BSIT student** at **Sir Syed University of Engineering and Technology**. My areas of focus include **cybersecurity**, **cloud computing**, and **software development**. I strive to blend creativity with real-world solutions, contribute to the tech ecosystem, and never stop learning.
-
-- 🛡️ **Cybersecurity Enthusiast**: Exploring security vulnerabilities and risk management.
-- 🌐 **Full-Stack Development**: Working on both front-end and back-end projects.
-- 📚 **Lifelong Learner**: Continuously expanding my knowledge in **Python**, **C#**, and **React Native**.
 
 ---
 
+## 🧑‍💻 About Me
+
+I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. I have a deep interest in **cybersecurity**, **cloud computing**, and **software development**. I'm committed to creating innovative solutions and continuously evolving in the tech landscape.
+
+---
+
+## 💡 My Interests
+
+- 🔐 **Cybersecurity**: Discovering vulnerabilities and enhancing security measures.
+- ☁️ **Cloud Technologies**: Exploring Azure and AWS for scalable solutions.
+- 🖥️ **Full-Stack Development**: Building responsive web applications
+
+---
 ## ⚡️ My Toolbox
 
 <p align="center">
