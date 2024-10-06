@@ -151,3 +151,119 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 
+<!-- Animated Header Banner with Unique Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:734ae8&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
+</p>
+
+<!-- Animated Professional Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Cybersecurity+Explorer;BSIT+Student+%7C+Software+Development+Lover;Problem+Solver+%7C+Cloud+Computing+Learner" alt="Professional Tagline" />
+</p>
+
+---
+
+## 🎨 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation" width="500"/>
+</p>
+
+I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed University of Engineering and Technology**, passionate about **cybersecurity**, **cloud computing**, and **software development**. I’m a lifelong learner and problem solver, always seeking innovative tech solutions.
+
+---
+
+## 🚀 Skills & Tools
+
+<!-- Using animated icons for more creativity -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="C++" width="50" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="50" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="C#" width="50" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="HTML" width="50" />
+  <img src="https://media.giphy.com/media/4pJQajktAoYUM/giphy.gif" alt="CSS" width="50" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="JavaScript" width="50" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Linux" width="50" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+<!-- Creative Project Display with Badges and Descriptions -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
+        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="CPU Scheduling" width="100" />
+      </a>
+      <p><strong>Simulates various CPU scheduling algorithms.</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
+        <img src="https://media.giphy.com/media/l0MYGBs9uMfFdEJAI/giphy.gif" alt="Windows Updater" width="100" />
+      </a>
+      <p><strong>Automates Windows system updates via PowerShell.</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
+        <img src="https://media.giphy.com/media/l1J9zYIsjPAyojfri/giphy.gif" alt="Coffee Shop Manager" width="100" />
+      </a>
+      <p><strong>Manages orders and inventory efficiently.</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
+        <img src="https://media.giphy.com/media/3o6ozuVdqVKBvSx9j6/giphy.gif" alt="React Native App" width="100" />
+      </a>
+      <p><strong>A cross-platform mobile application.</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats (New Design)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="420"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlimuhammadRajwani&theme=monokai" alt="GitHub Profile Summary" width="500"/>
+</div>
+
+---
+
+## 🌱 Current Focus
+
+- 🔭 Learning **Python** for data science and automation.
+- 🌱 Building expertise in **cloud technologies** like Azure and AWS.
+- 💬 Reach out to me to discuss **algorithms**, **software development**, and **cybersecurity**.
+
+---
+
+## 🔥 Code Example in Visual Studio Style
+
+```csharp
+// Example of C# Code block styled as Visual Studio
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+# Example of Python Code block styled as Visual Studio
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Alimuhammad")
