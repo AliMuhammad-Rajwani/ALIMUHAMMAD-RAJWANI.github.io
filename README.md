@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Ali Muhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
 </p>
 
 <!-- Professional Tagline with Typing Animation -->
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. I have a deep interest in **cybersecurity**, **cloud computing**, and **software development**. I'm committed to creating innovative solutions and continuously evolving in the tech landscape.
+I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. I have a deep interest in **cybersecurity**, **cloud computing**, and **software development**. I'm committed to creating innovative solutions and continuously evolving in the tech landscape.
 
 
 ---
