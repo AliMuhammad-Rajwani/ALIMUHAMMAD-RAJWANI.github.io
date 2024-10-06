@@ -146,103 +146,92 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 
-
-
-
-
-
-<!-- Animated Header Banner with Unique Gradient -->
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:734ae8&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
 </p>
 
-<!-- Animated Professional Tagline -->
+<!-- Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Cybersecurity+Explorer;BSIT+Student+%7C+Software+Development+Lover;Problem+Solver+%7C+Cloud+Computing+Learner" alt="Professional Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Dev+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
 </p>
 
 ---
 
-## 🎨 About Me
-
+## 🎧 Add Background Music
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation" width="500"/>
-</p>
-
-I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed University of Engineering and Technology**, passionate about **cybersecurity**, **cloud computing**, and **software development**. I’m a lifelong learner and problem solver, always seeking innovative tech solutions.
-
----
-
-## 🚀 Skills & Tools
-
-<!-- Using animated icons for more creativity -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="C++" width="50" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="50" />
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="C#" width="50" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="HTML" width="50" />
-  <img src="https://media.giphy.com/media/4pJQajktAoYUM/giphy.gif" alt="CSS" width="50" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="JavaScript" width="50" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Linux" width="50" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
+  <a href="https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Background%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Play Music" />
+  </a>
 </p>
 
 ---
 
-## 💻 Featured Projects
+## 🛠 Animated Skills & Tools
 
-<!-- Creative Project Display with Badges and Descriptions -->
-<table align="center" width="100%">
+<!-- Animated icons (Lottie or GIFs) to make the profile come alive -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="C++" width="60" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="60" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="C#" width="60" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Linux" width="60" />
+  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Git" width="60" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="60" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Adding animated badges for the projects -->
+<table align="center" width="90%">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="CPU Scheduling" width="100" />
+        <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" alt="CPU Scheduling" width="120" />
       </a>
-      <p><strong>Simulates various CPU scheduling algorithms.</strong></p>
+      <p><strong>Simulates various CPU scheduling algorithms</strong></p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://media.giphy.com/media/l0MYGBs9uMfFdEJAI/giphy.gif" alt="Windows Updater" width="100" />
+        <img src="https://media.giphy.com/media/8ivfCLcHhrpXjsABvU/giphy.gif" alt="Windows Updater" width="120" />
       </a>
-      <p><strong>Automates Windows system updates via PowerShell.</strong></p>
+      <p><strong>Automates Windows system updates via PowerShell</strong></p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://media.giphy.com/media/l1J9zYIsjPAyojfri/giphy.gif" alt="Coffee Shop Manager" width="100" />
+        <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Coffee Shop Manager" width="120" />
       </a>
-      <p><strong>Manages orders and inventory efficiently.</strong></p>
+      <p><strong>Manages orders and inventory efficiently</strong></p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
-        <img src="https://media.giphy.com/media/3o6ozuVdqVKBvSx9j6/giphy.gif" alt="React Native App" width="100" />
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="React Native App" width="120" />
       </a>
-      <p><strong>A cross-platform mobile application.</strong></p>
+      <p><strong>A cross-platform mobile application</strong></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats (New Design)
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="420"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlimuhammadRajwani&theme=monokai" alt="GitHub Profile Summary" width="500"/>
-</div>
+<!-- GitHub Stats with animations -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
 
 ---
 
-## 🌱 Current Focus
+## 🚀 Current Focus
 
-- 🔭 Learning **Python** for data science and automation.
-- 🌱 Building expertise in **cloud technologies** like Azure and AWS.
-- 💬 Reach out to me to discuss **algorithms**, **software development**, and **cybersecurity**.
+- 🔭 Exploring **Python** for data science and automation.
+- 🌱 Developing skills in **cloud technologies** such as Azure and AWS.
+- 💬 Let's chat about **software development**, **algorithms**, and **cybersecurity**.
 
 ---
 
@@ -250,10 +239,10 @@ I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed Universi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alirajwani59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AlimuhammadRajwani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -264,12 +253,14 @@ I'm **Alimuhammad Rajwani**, a dedicated **BSIT student** at **Sir Syed Universi
 
 <!-- Footer with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:734ae8&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" alt="Footer" />
 </p>
 
 <!-- GitHub Snake Animation -->
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+</p>
+
+
 
 
