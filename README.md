@@ -67,6 +67,9 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=monokai&hide_border=false" alt="GitHub Streak" width="350"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=monokai" alt="GitHub Profile Summary" width="500"/>
+</div>
 ---
 
 ## 🚀 Current Focus
@@ -149,47 +152,3 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 
-
-
-## 📊 GitHub Stats (New Design)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimuhammad-Rajwani&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="420"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=monokai" alt="GitHub Profile Summary" width="500"/>
-</div>
-
----
-
-## 🌱 Current Focus
-
-- 🔭 Learning **Python** for data science and automation.
-- 🌱 Building expertise in **cloud technologies** like Azure and AWS.
-- 💬 Reach out to me to discuss **algorithms**, **software development**, and **cybersecurity**.
-
----
-
-## 🔥 Code Example in Visual Studio Style
-
-```csharp
-// Example of C# Code block styled as Visual Studio
-using System;
-
-namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
-# Example of Python Code block styled as Visual Studio
-def greet(name):
-    print(f"Hello, {name}!")
-
-greet("Alimuhammad")
