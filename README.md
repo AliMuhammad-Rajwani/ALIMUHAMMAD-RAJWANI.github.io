@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Ali Muhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
 </p>
 
 <!-- Professional Tagline with Typing Animation -->
