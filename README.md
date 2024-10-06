@@ -144,7 +144,6 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 
-
 <!-- Header Banner with Gradient Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,100:3498db&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
@@ -254,3 +253,4 @@ I'm **Alimuhammad Rajwani**, a highly motivated **BSIT student** at **Sir Syed U
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
