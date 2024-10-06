@@ -140,126 +140,12 @@ I'm **Alimuhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univers
 
 
 
-<!-- Header Banner with Animation and Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f39c12,100:e74c3c&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
-</p>
 
-<!-- Professional Tagline with Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f39c12&center=true&vCenter=true&width=600&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Dev+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
-</p>
 
----
 
-## 🎧 Background Music
 
-<p align="center">
-  <a href="https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Music%20while%20Browsing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Music" />
-  </a>
-</p>
 
----
 
-## 🛠 Skills & Tools 
-
-<!-- Animated Icons using Lottie Files (or GIFs) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Animated Project Badges -->
-<table align="center" width="90%">
-  <tr>
-    <td align="center" style="padding: 20px; border: none;">
-      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-        <img src="https://img.shields.io/badge/CPU%20Scheduling-f39c12?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000" alt="CPU Scheduling" />
-      </a>
-      <p><strong>Simulates various CPU scheduling algorithms</strong></p>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
-        <img src="https://img.shields.io/badge/Windows%20Updater-e74c3c?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" alt="Windows Updater" />
-      </a>
-      <p><strong>Automates Windows system updates via PowerShell</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px; border: none;">
-      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
-        <img src="https://img.shields.io/badge/Coffee%20Shop%20Manager-16a085?style=for-the-badge&logo=coffee&logoColor=white&labelColor=000000" alt="Coffee Shop Manager" />
-      </a>
-      <p><strong>Manages orders and inventory efficiently</strong></p>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
-        <img src="https://img.shields.io/badge/React%20Native%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="React Native App" />
-      </a>
-      <p><strong>A cross-platform mobile application</strong></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlimuhammadRajwani&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
-</p>
-
----
-
-## 🌱 Current Focus
-
-- 🔭 **Exploring** Python for data science and automation.
-- 🚀 **Developing** skills in **cloud computing** with Azure and AWS.
-- 💬 Always ready to chat about **software development**, **algorithms**, and **cybersecurity**.
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alimuhammadrajwani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alirajwani59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
-  </a>
-  <a href="https://github.com/AlimuhammadRajwani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-  </a>
-  <a href="https://education.github.com/experts">
-    <img src="https://img.shields.io/badge/GitHub%20Student%20Developer-1f8bff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Student Developer" />
-  </a>
-  <a href="https://github.com/AliMuhammad-Rajwani/Cv" download>
-    <img src="https://img.shields.io/badge/CV-Download-3498db?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="CV" />
-  </a>
-</p>
-
----
-
-<!-- Footer Banner with Gradient Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:e74c3c&height=120&section=footer" alt="Footer" />
-</p>
-
-<!-- GitHub Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 
 
