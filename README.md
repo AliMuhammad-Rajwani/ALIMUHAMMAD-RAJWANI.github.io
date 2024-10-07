@@ -142,34 +142,14 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 
 
-## 🏆 Featured Projects
 
-<!-- Featured Project 1 -->
-<p align="left">
-  <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlimuhammadRajwani&repo=project-1-repo&theme=radical" />
-  </a>
-</p>
 
-<!-- Featured Project 2 -->
-<p align="left">
-  <a href="https://github.com/AlimuhammadRajwani/project-2-repo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlimuhammadRajwani&repo=project-2-repo&theme=radical" />
-  </a>
-</p>
 
-<!-- Featured Project 3 -->
-<p align="left">
-  <a href="https://github.com/AlimuhammadRajwani/project-3-repo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlimuhammadRajwani&repo=project-3-repo&theme=radical" />
-  </a>
-</p>
 
-<!-- Featured Project 4 -->
-<p align="left">
-  <a href="https://github.com/AlimuhammadRajwani/project-4-repo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlimuhammadRajwani&repo=project-4-repo&theme=radical" />
-  </a>
-</p>
+
+
+
+
+
 
 
