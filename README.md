@@ -146,7 +146,7 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 <!-- Featured Project 1 -->
 <p align="left">
-  <a href="https://github.com/AlimuhammadRajwani/project-1-repo">
+  <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlimuhammadRajwani&repo=project-1-repo&theme=radical" />
   </a>
 </p>
