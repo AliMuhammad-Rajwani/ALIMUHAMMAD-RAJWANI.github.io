@@ -268,3 +268,49 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
+
+---
+
+## 🌈 Featured Projects
+
+<div align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/shahriarshafin">
+    <div style="border: 2px solid #00ff99; border-radius: 10px; padding: 20px; margin: 10px; display: inline-block; width: 300px; text-align: left;">
+      <h3>shahriarshafin</h3>
+      <p>😎 Shafin's GitHub readme profile. Feel free to check out the readme file, copy, fork, and use.</p>
+      <p>🌟 40 &nbsp;&nbsp;&nbsp;&nbsp;🍴 72</p>
+    </div>
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/disney-plus-clone">
+    <div style="border: 2px solid #00ff99; border-radius: 10px; padding: 20px; margin: 10px; display: inline-block; width: 300px; text-align: left;">
+      <h3>disney-plus-clone</h3>
+      <p>⚡ Disney+ says it is not available in my region. So, I cloned it with React.</p>
+      <p>💻 JavaScript &nbsp;&nbsp;&nbsp;🌟 11 &nbsp;&nbsp;&nbsp;🍴 4</p>
+    </div>
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/nodemcu-esp8266-fake-sign-in">
+    <div style="border: 2px solid #00ff99; border-radius: 10px; padding: 20px; margin: 10px; display: inline-block; width: 300px; text-align: left;">
+      <h3>nodemcu-esp8266-fake-sign-in</h3>
+      <p>🐱‍💻 Email password phishing | WiFi captive portal for ESP8266 | NodeMcu fake login.</p>
+      <p>💻 C++ &nbsp;&nbsp;&nbsp;🌟 63 &nbsp;&nbsp;&nbsp;🍴 12</p>
+    </div>
+  </a>
+
+  <!-- Project 4 -->
+  <a href="https://github.com/lot-car-controller">
+    <div style="border: 2px solid #00ff99; border-radius: 10px; padding: 20px; margin: 10px; display: inline-block; width: 300px; text-align: left;">
+      <h3>lot-car-controller</h3>
+      <p>🚗 A web application that can control NodeMCU – Car via WiFi and stream live footage with an IP cam.</p>
+      <p>💻 C++ &nbsp;&nbsp;&nbsp;🌟 4 &nbsp;&nbsp;&nbsp;🍴 4</p>
+    </div>
+  </a>
+
+</div>
+
+---
