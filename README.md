@@ -112,6 +112,15 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 
 
+## 🔥 My Achievements 🔥
+
+![GitHub Star](https://img.shields.io/badge/-GitHub%20Star-yellow?style=flat-square&logo=github)
+![100 PRs](https://img.shields.io/badge/-100%20Pull%20Requests-ff69b4?style=flat-square&logo=github)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cybersecurity Beginner](https://img.shields.io/badge/Cybersecurity-Beginner-red?style=flat-square&logo=security)
+![Cisco Contributor](https://img.shields.io/badge/-Cisco%20Contributor%202-blue?style=flat-square&logo=cisco&logoColor=white)
+![GitHub Student Developer Pack](https://img.shields.io/badge/-GitHub%20Student%20Developer%20Pack-blue?style=flat-square&logo=github)
 
 
 
