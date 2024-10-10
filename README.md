@@ -1,7 +1,6 @@
-body {
-  background-color: black;
-  color: white; /* This sets the text color to white for better contrast */
-}
+<div style="background-color: black; color: white; padding: 20px;">
+  <!-- Your GitHub README content here -->
+
 
 <!-- Header Banner with Gradient Colors and Stylish Font -->
 <p align="center">
@@ -144,10 +143,7 @@ body {
 
 
 
-
-
-
-
+</div>
 
 
 
