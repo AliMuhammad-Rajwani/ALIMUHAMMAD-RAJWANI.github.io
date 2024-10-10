@@ -18,7 +18,9 @@
 </p>
 
 ```yaml
-  name: Ali Muhammad Rajwani
+  name: Ali Muhammad 
+  education status: currently bs(it) student 
+  job status: internship at Ssuet as a network engineer 
   tech_focus: Cybersecurity | Cloud Computing | Full-Stack Development
   tools: Azure, AWS, Kali Linux, React, C#, Python
   motto: "Lifelong Learner | Problem Solver | Innovator"
