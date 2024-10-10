@@ -140,6 +140,20 @@
 
 
 
+<!-- Set background to black -->
+<div style="background-color: black; color: white;">
+
+  <!-- Footer -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" alt="Footer" />
+  </p>
+
+  <!-- GitHub Snake Animation -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  </div>
+
+</div>
 
 
 
