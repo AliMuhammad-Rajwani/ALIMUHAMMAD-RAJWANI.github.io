@@ -25,9 +25,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Always+Learning+New+Things;Aspiring+to+Become+a+Cybersecurity+Expert" alt="About Me Animation" />
-</p>
 
 ---
 
@@ -90,8 +87,11 @@
 
 ## 🌍 Current Focus & Interests
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Always+Learning+New+Things;Aspiring+to+Become+a+Cybersecurity+Expert" alt="About Me Animation" />
+</p>
+
 - 🌱 Building expertise in **cybersecurity** and **ethical hacking**.
-- 🚀 Exploring **cloud solutions** with **Azure** and **AWS**.
 - 💻 Developing skills in **full-stack development** with **React** and **Python**.
 
 ---
