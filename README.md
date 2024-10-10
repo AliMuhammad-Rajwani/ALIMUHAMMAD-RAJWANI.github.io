@@ -257,7 +257,6 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 <div align="center">
   <img src="https://raw.githubusercontent.com/AliMuhammad-Rajwani/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="650"/>
 </div>
-
 ---
 
 ## 🏆 Achievements
