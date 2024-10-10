@@ -150,5 +150,125 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 
 
+<!-- Header Banner with Animated Effects -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontAlignY=40&animation=twinkling" alt="Header" />
+</p>
+
+<!-- Typing Animation Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=6A5ACD&center=true&vCenter=true&width=500&lines=BSIT+Student+at+SSUET;Cybersecurity+Explorer;Technology+Enthusiast;Cloud+Computing+Learner;Lifelong+Learner+%7C+Problem+Solver" alt="Typing Animation" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+  name: Ali Muhammad Rajwani
+  university: Sir Syed University of Engineering & Technology
+  focus: Cybersecurity, Cloud Computing, Software Development
+  passion: Creating Innovative Tech Solutions
+  mindset: Lifelong Learner, Problem Solver
+```
+
+---
+
+## ⚡️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,html,css,js,react,linux,git,bash,azure,ps,kubernetes&perline=7" alt="Skills" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Cpu-Schduling-Algorithm-Calculator.git">
+        <img src="https://img.shields.io/badge/CPU%20Scheduling-00aaff?style=flat&logo=csharp&logoColor=white" alt="CPU Scheduling" />
+      </a>
+      <p><strong>Simulates various CPU scheduling algorithms.</strong></p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Window-System-Update.git">
+        <img src="https://img.shields.io/badge/Windows%20Updater-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Updater" />
+      </a>
+      <p><strong>Automates Windows system updates via PowerShell.</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/AliMuhammad-Rajwani/Coffee_Shop.git">
+        <img src="https://img.shields.io/badge/Coffee%20Shop%20Manager-6d2c91?style=flat&logo=coffee&logoColor=white" alt="Coffee Shop Manager" />
+      </a>
+      <p><strong>Manages orders and inventory efficiently.</strong></p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/AliMuhammad-Rajwani/React-Native-App.git">
+        <img src="https://img.shields.io/badge/React%20Native%20App-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native App" />
+      </a>
+      <p><strong>A cross-platform mobile application.</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&theme=tokyonight&show_icons=true&hide=issues,contribs" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
+
+---
+
+## 💡 Current Focus
+
+- 🌱 Building proficiency in **Azure** & **AWS** cloud platforms.
+- 💻 Exploring **Python** for cybersecurity automation.
+- ⚙️ Passionate about **ethical hacking** and **network security**.
+
+---
+
+## 🌟 Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Beginner-red?style=flat-square&logo=security" alt="Cybersecurity Beginner" />
+  <img src="https://img.shields.io/badge/Cisco%20Contributor%202-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Contributor 2" />
+  <img src="https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-blue?style=flat-square&logo=github" alt="GitHub Student Developer Pack" />
+</div>
+
+---
+
+## 🧑‍🏫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alirajwani59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AlimuhammadRajwani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<!-- Footer with Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer" alt="Footer" />
+</p>
+
+<!-- Dynamic GitHub Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlimuhammadRajwani/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
 
 
