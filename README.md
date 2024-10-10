@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Alimuhammad%20Rajwani&fontSize=45&fontAlign=50&fontAlignY=30&desc=Technology%20Innovator%20%7C%20Cybersecurity%20Explorer&descSize=18&descAlignY=50" alt="Header" />
 </p>
 
-<!-- Professional Tagline with Typing Animation -->
+<!-- Typing Animation for Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Technology+Innovator+%7C+BSIT+Student;Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" alt="Professional Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=blueviolet&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Cloud+Computing+Learner+%7C+Lifelong+Innovator;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
