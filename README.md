@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+  color: white; /* This sets the text color to white for better contrast */
+}
 
 <!-- Header Banner with Gradient Colors and Stylish Font -->
 <p align="center">
