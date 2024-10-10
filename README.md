@@ -13,9 +13,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Always+Learning+New+Things;Aspiring+to+Become+a+Cybersecurity+Expert" alt="About Me Animation" />
-</p>
 
 ```yaml
   name: Ali Muhammad 
@@ -25,6 +22,12 @@
   tools: Azure, AWS, Kali Linux, React, C#, Python
   motto: "Lifelong Learner | Problem Solver | Innovator"
 ```
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Always+Learning+New+Things;Aspiring+to+Become+a+Cybersecurity+Expert" alt="About Me Animation" />
+</p>
 
 ---
 
