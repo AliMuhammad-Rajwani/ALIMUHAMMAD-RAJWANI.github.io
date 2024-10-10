@@ -285,6 +285,11 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
   <a href="https://github.com/AlimuhammadRajwani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+ <a href="https://github.com/AliMuhammad-Rajwani/Cv" download>
+    <img src="https://img.shields.io/badge/CV-Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Download CV" />
+  </a>
+
 </p>
 
 ---
