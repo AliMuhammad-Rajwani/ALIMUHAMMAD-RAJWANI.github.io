@@ -1,6 +1,6 @@
-<!-- Header Banner -->
+<!-- Header with Animated Text & Icon Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00bfff&height=120&section=header&text=Alimuhammad%20Rajwani&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Alimuhammad%20Rajwani&fontSize=45&fontAlign=50&fontAlignY=30&desc=Technology%20Innovator%20%7C%20Cybersecurity%20Explorer&descSize=18&descAlignY=50" alt="Header" />
 </p>
 
 <!-- Professional Tagline with Typing Animation -->
