@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. I have a deep interest in **cybersecurity**, **cloud computing**, and **software development**. I'm committed to creating innovative solutions and continuously evolving in the tech landscape.
+I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed University of Engineering and Technology**. I have a deep interest in **cybersecurity**, **Cloud computing**, and **software development**. I'm committed to creating innovative solutions and continuously evolving in the tech landscape.
 
 
 ---
