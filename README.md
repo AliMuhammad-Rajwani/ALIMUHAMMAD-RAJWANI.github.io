@@ -361,9 +361,9 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical&hide_border=true" alt="GitHub Streak" width="350"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AlimuhammadRajwani&theme=radical" alt="GitHub Trophies" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimuhammad-Rajwani&theme=radical&hide_border=true" alt="GitHub Streak" width="350"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alimuhammad-Rajwani&theme=radical" alt="GitHub Trophies" width="350"/>
 </div>
 
 ---
@@ -371,11 +371,11 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 ## 🔥 Dynamic Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlimuhammadRajwani&theme=github&area=true&area_color=gradient" alt="GitHub Activity Graph" width="650"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimuhammad-Rajwani&theme=github&area=true&area_color=gradient" alt="GitHub Activity Graph" width="650"/>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AliMuhammadRajwani/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="650"/>
+  <img src="https://raw.githubusercontent.com/AliMuhammad-Rajwani/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="650"/>
 </div>
 
 ---
@@ -383,7 +383,7 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammad-Rajwani&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="350"/>
   <img src="https://img.shields.io/badge/-Cybersecurity-Beginner-red?style=for-the-badge&logo=security" alt="Cybersecurity Badge" />
   <img src="https://img.shields.io/badge/-Cisco%20Contributor%202-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Contributor" />
 </p>
