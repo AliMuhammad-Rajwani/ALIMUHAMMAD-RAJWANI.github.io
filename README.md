@@ -143,17 +143,30 @@
 
 
 
-## 📊 My GitHub Stats
+
+
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimuhammad-Rajwani&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" width="400" style="border-radius: 15px; border: 2px solid #6c63ff; margin: 10px;"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimuhammad-Rajwani&layout=compact&theme=onedark&hide_title=true" alt="Top Languages" width="400" style="border-radius: 15px; border: 2px solid #6c63ff; margin: 10px;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=radical&hide_border=false" alt="GitHub Streak" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=radical" alt="Profile Summary" width="400"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimuhammad-Rajwani&theme=onedark&hide_border=false&border_radius=15" alt="GitHub Streak" width="400" style="border-radius: 15px; border: 2px solid #6c63ff; margin: 10px;"/>
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=onedark" alt="Profile Summary" width="400" style="border-radius: 15px; border: 2px solid #6c63ff; margin: 10px;"/>
 </div>
 
+---
 
+## 🌟 Contributions Overview
 
+<div align="center">
+  <p style="font-size: 16px; color: #6c63ff; font-weight: bold;">My Contributions</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alimuhammad-Rajwani&theme=onedark" alt="Most Commit Language" width="400" style="border-radius: 15px; border: 2px solid #6c63ff; margin: 10px;"/>
+</div>
