@@ -5,7 +5,7 @@
 
 <!-- Typing Animation for Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=blueviolet&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Web+Development+Enthusiast; Cloud+Computing+Learner+%7C+Lifelong+Innovator;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=blueviolet&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Cloud+Computing+Learner+%7C+Lifelong+Innovator;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
