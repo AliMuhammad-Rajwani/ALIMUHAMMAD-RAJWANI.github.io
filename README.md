@@ -193,7 +193,7 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 <!-- Typing Animation for Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F7B801&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Cloud+Computing+Learner+%7C+Lifelong+Innovator;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F7B801&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Web+Development+Enthusiast;Cloud+Computing+%7C+Lifelong+Innovator;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
