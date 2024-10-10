@@ -276,9 +276,6 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimuhammad-Rajwani&theme=github&area=true&area_color=gradient" alt="GitHub Activity Graph" width="650"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AliMuhammad-Rajwani/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="650"/>
-</div>
 
 ---
 
