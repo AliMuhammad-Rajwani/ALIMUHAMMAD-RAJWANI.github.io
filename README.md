@@ -239,17 +239,18 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
   </tr>
 </table>
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimuhammad-Rajwani&theme=tokyonight" alt="GitHub Streak" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIMUHAMMAD-RAJWANI&theme=monokai&hide_border=false" alt="GitHub Streak" width="350"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alimuhammad-Rajwani&theme=dracula&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=monokai" alt="GitHub Profile Summary" width="350"/>
 </div>
 
 ---
