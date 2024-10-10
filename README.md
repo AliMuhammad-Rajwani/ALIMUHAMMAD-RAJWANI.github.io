@@ -112,6 +112,7 @@ I'm **Ali Muhammad Rajwani**, a passionate **BSIT student** at **Sir Syed Univer
 
 
 
+![Achievement](https://img.shields.io/badge/Achievement-100%20PRs%20Merged-green?style=flat-square)
 
 
 
