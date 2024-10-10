@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Effect for a Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+|+Cloud+Computing+Enthusiast;Web+Designer+DSA+OS +%7C+Innovator;Passionate+About+Technology+and+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+|+Cloud+Computing+Enthusiast;Web+Designer+|+ DSA +|+ OS +%7C+Innovator;Passionate+About+Technology+and+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
   name: Ali Muhammad 
   education status: currently bs(it) student 
   job status: internship at Ssuet as a network engineer 
-  tech_focus: Cybersecurity | Cloud Computing | Full-Stack Development
+  tech_focus: Cybersecurity | Cloud Computing | web Development
   tools: Azure, AWS, Kali Linux, React, C#, Python
   motto: "Lifelong Learner | Problem Solver | Innovator"
 ```
